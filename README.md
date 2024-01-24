@@ -2,7 +2,7 @@
 <h3 align="center">I want to become an Data Engineer</h3>
 
 ## 🌱 I’m currently learning
-- **AWS Cloud, Bigdata, Machine Learning**
+- **AWS Cloud, GCP, Azure, Bigdata, Machine Learning**
 
 ## 💬 About Me
 - **I specialize in designing and constructing scalable data pipelines that encompass the processes of extraction, transformation, and loading (ETL). I'm now looking for Big Data/Data Engineer roles to leverage knowledge that I’ve had so far to enhances my technical skills in general as well as contribute to group workload. Currently, I found interested in the Cloud Computing, I believe Cloud Computing is gonna be the trending and feature on Software Application Development.**
