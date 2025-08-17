@@ -2,7 +2,7 @@
 <h3 align="center">I want to become an AI Engineer</h3>
 
 ## 💬 About Me
-- **As a student with passion and always curiosity about the technology of the future, I am always looking forward to learning more about Artificial Intelligence fields, which help me to hone my knowledge, as well as create new value for life and society.**
+- **As a student with passion and always curiosity about the technology of the future, I am always looking forward to learning more about the Artificial Intelligence field.**
 
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
